@@ -8,6 +8,7 @@ version = '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 
+    // used the minebench repo, because the spigot repo tried to get an old spigot version which doesn't even exist on their nexus anymore
     maven {
         url "https://repo.minebench.de/"
     }
