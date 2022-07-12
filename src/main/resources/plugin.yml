@@ -1,0 +1,7 @@
+name: CreeperExplosionAvoidance
+version: '${version}'
+main: xyz.mlhmz.creeperexplosionavoidance.CreeperExplosionAvoidance
+api-version: 1.19
+authors: [ mlhmz ]
+description: a plugin to avoid the explosion world damage of a creeper
+website: mlhmz.xyz
