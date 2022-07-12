@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/mlhmz/creeper-explosion-avoidance/main/assets/banner.png)
 
 ## Description
-this is a simple plugin to avoid the block damage to creeper explosions, that's it.  
+this is a simple plugin to avoid the block destruction to creeper explosions, that's it.  
   
 I built this plugin because the effect of disabling the game rule "mobGriefing" can result in 
 misbehaviour in e.g. villager farms, there were already plugins but these had too much configuration
