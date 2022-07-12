@@ -1,5 +1,7 @@
 # CreeperExplosionAvoidance
 
+![Banner](https://raw.githubusercontent.com/mlhmz/creeper-explosion-avoidance/main/assets/banner.png)
+
 ## Description
 this is a simple plugin to avoid the block damage to creeper explosions, that's it.  
   
