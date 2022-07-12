@@ -10,7 +10,7 @@ misbehaviour in e.g. villager farms, there were already plugins but these had to
 options 
 
 ## Installation
-Download the Plugin from the Releases Tab or Spigot and put it in the "plugins"-Folder of your Server Directory
+Download the Plugin from the Releases Tab and put it in the "plugins"-Folder of your Server Directory
 
 ## Compatibility
 I tested the plugin on 1.8.8 and on 1.19 and both worked, so all Versions between should work too.
